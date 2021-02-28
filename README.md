@@ -8,11 +8,11 @@ https://savannahf.github.io/Portfolio/
 
 Screen Shots can be found below:
 
-[assets/Portfolio_ScreenShot_1.jpeg] "https://user-images.githubusercontent.com/67602838/109406681-24afb300-7949-11eb-8d67-1113a2e14e9a.png"
+[Assets/Portfolio_ScreenShot_1.jpeg] "https://user-images.githubusercontent.com/67602838/109406681-24afb300-7949-11eb-8d67-1113a2e14e9a.png"
 
-[assets/Portfolio_ScreenShot_2.jpeg]"https://user-images.githubusercontent.com/67602838/109406683-28433a00-7949-11eb-9eca-268846591902.png"
+[Assets/Portfolio_ScreenShot_2.jpeg]"https://user-images.githubusercontent.com/67602838/109406683-28433a00-7949-11eb-9eca-268846591902.png"
 
-[assets/Portfolio_ScreenShot_3.jpeg]"https://user-images.githubusercontent.com/67602838/109406686-2c6f5780-7949-11eb-8b93-3cda059d1d3c.png"
+[Assets/Portfolio_ScreenShot_3.jpeg]"https://user-images.githubusercontent.com/67602838/109406686-2c6f5780-7949-11eb-8b93-3cda059d1d3c.png"
 
 
 ## Installation
