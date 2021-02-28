@@ -53,6 +53,7 @@ html, body {
   }
   
   /*Jumbotron Section*/
+  /* Def want to figure out better way to use this w/in portfolio page */
   
   .jumbotron {
     background-color: #fff;
@@ -77,13 +78,14 @@ html, body {
   }
   
   /*Banner Section*/
+  /* Want to move image over to the left, add more "About Me" info in second column to the right. */
   
   .banner {
     background-color: #D4D2DA;
     padding: 20px;
     text-align: center;
   }
-  
+
   /*Portfolio Section*/
   
   .cards {
