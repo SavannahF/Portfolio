@@ -15,7 +15,7 @@ html, body {
   }
   
   h1 {
-    font-size: 20px;
+    font-size: 40px;
   }
   
   /*Sizing*/
@@ -30,15 +30,15 @@ html, body {
   }
   
   .main {
-    background-color: #ffc200;
+    background-color: #B19EEA;
   }
   
   /*Header Section*/
   
   .header {
-    padding: 30px 0px 40px;
-    margin-left: 50px;
-    margin-right: 50px;
+    padding: 20px 0px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   
   .header li {
@@ -47,7 +47,7 @@ html, body {
   }
   
   .header li a {
-    color: #333;
+    color: #08080a;
     margin:0;
     border:0px;
   }
@@ -61,12 +61,12 @@ html, body {
   }
   
   .jumbotron h2 {
-    font-size: 50px;
-    margin-bottom: 70px;
+    font-size: 30px;
+    margin-bottom: 50px;
   }
   
   .jumbotron h2 span {
-    color:#ffc200;
+    color:#B19EEA;
   }
   
   .jumbotron p {
@@ -79,8 +79,7 @@ html, body {
   /*Banner Section*/
   
   .banner {
-    background-color: #333;
-    color: #fff;
+    background-color: #D4D2DA;
     padding: 20px;
     text-align: center;
   }
@@ -88,7 +87,7 @@ html, body {
   /*Portfolio Section*/
   
   .cards {
-    background-color: #ffc200;
+    background-color: #B19EEA;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -102,7 +101,7 @@ html, body {
   
   #portfolio {
     padding: 20px;
-    background-color: #ffc200;
+    background-color: #B19EEA;
     margin: 0;
     text-align: center;
   }
@@ -110,8 +109,8 @@ html, body {
   /*Contact Section*/
   .contact {
     padding: 60px 0px;
-    background-color: #000;
-    color: #fff;
+    background-color: #D4D2DA;
+    color: rgb(0, 0, 0);
   }
   
   .contact h3 {
