@@ -8,9 +8,9 @@ https://savannahf.github.io/Portfolio/
 
 Screen Shots can be found below:
 
-![UPDATED_IMAGE_01] (./assets/UPDATED_IMAGE_01.png)
-![UPDATED_IMAGE_02] (./assets/UPDATED_IMAGE_02.png)
-![UPDATED_IMAGE_03] (./assets/UPDATED_IMAGE_03.png)
+![UPDATED_IMAGE_01] (./assets/IMAGE1.png)
+![UPDATED_IMAGE_02] (./assets/IMAGE2.png)
+![UPDATED_IMAGE_03] (./assets/IMAGE3.png)
 
 ## Installation
 
@@ -24,14 +24,12 @@ Visit the github-hosted webpage for the user experience!!
 
 ## Usage
 
-No usage instructions are required other than to visit the webpage.
-
-```
+1. Click on "Download My Resume" to download a PDF of my resume.
+2. Updated repo links can be found in the logo thumbnails for "PawMe" (dog logo), "Daily Task Manager" (clock logo), and "JavaScript Quiz" (quiz logo).
 
 ## Credits
 
 This project was created using some of the new skills I have learned about HTML and CSS. Resources include online CSS and HTML guides, as well as lessons in Flexbox and how to structure the images. GIMP used for thumbnail imagery, and all photographs are my own.
-
 
 ## License
 
@@ -56,4 +54,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+```
+
 ```
