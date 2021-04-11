@@ -8,9 +8,9 @@ https://savannahf.github.io/Portfolio/
 
 Screen Shots can be found below:
 
-![UPDATED_IMAGE_01] (./assets/IMAGE1.png)
-![UPDATED_IMAGE_02] (./assets/IMAGE2.png)
-![UPDATED_IMAGE_03] (./assets/IMAGE3.png)
+![UPDATED_IMAGE_01] (./assets/IMAGE1.jpg)
+![UPDATED_IMAGE_02] (./assets/IMAGE2.jpg)
+![UPDATED_IMAGE_03] (./assets/IMAGE3.jpg)
 
 ## Installation
 
