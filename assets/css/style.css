@@ -65,7 +65,7 @@ h1 {
 /* .jumbotron  */
 h2 {
   font-size: 30px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 /* .jumbotron 
@@ -113,7 +113,7 @@ h2 {
 
 /*Contact Section*/
 .contact {
-  padding: 60px 0px;
+  padding: 20px 0px;
   background-color: #d4d2da;
   color: rgb(0, 0, 0);
   text-align: center;
