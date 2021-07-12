@@ -8,9 +8,8 @@ https://savannahf.github.io/Portfolio/
 
 Screen Shots can be found below:
 
-![UPDATED_IMAGE_01](./assets/IMAGE1.jpg)
-![UPDATED_IMAGE_02](./assets/IMAGE2.jpg)
-![UPDATED_IMAGE_03](./assets/IMAGE3.jpg)
+![UPDATED_IMAGE_01](./assets/mywork-examples.png)
+![UPDATED_IMAGE_02](./assets/top-of-page.png)
 
 ## Installation
 
@@ -25,7 +24,7 @@ Visit the github-hosted webpage for the user experience!!
 ## Usage
 
 1. Click on "Download My Resume" to download a PDF of my resume.
-2. Updated repo links can be found in the logo thumbnails for "PawMe" (dog logo), "Daily Task Manager" (clock logo), and "JavaScript Quiz" (quiz logo).
+2. Updated repo links can be found in the logo thumbnails for "PawMe" (dog logo), "Daily Task Manager" (clock logo), and "JavaScript Quiz" (quiz logo), "README Maker" (README logo), and "The Hookahp - Wilbo Hookahs Store" (hookah logo).
 
 ## Credits
 
